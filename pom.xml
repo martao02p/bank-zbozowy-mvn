@@ -13,7 +13,7 @@
 	<version>1.0</version>
 	<name>Bank Zbozowy</name>
 
-	<dependencies>
+<!-- 	<dependencies> -->
 	<!-- Freemarker -->
 	<dependency>
 		<groupId>freemarker</groupId>
